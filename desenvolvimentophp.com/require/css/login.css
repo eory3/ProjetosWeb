@@ -1,0 +1,65 @@
+main form
+{
+	background: #fff; 
+	border: 1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	width: 642px;
+	height: 266px;
+	margin: 0 auto;
+}
+
+main form p
+{
+	background: none;
+	margin: 4px 22px 30px;
+	padding: 10px;
+	border-bottom: 1px solid #CCC;
+	font-size: 18px;
+}
+
+main form div
+{
+	background: none;
+	margin: 0 auto 15px;
+	text-align: center;
+	width: 270px;
+}
+
+main form label
+{
+	background: none;
+	padding: 5px 10px;
+	color: #7D6666;
+}
+
+main form input[type='text'],
+main form input[type='password']
+{
+	border: 1px sodid #BDC7D8;
+	height: 20px;
+	padding: 0 5px;
+	width: 190px;
+}
+
+main form button
+{
+	background: #5C74A9;
+	border: 1px solid #29447E;
+	float: right;
+	cursor: pointer;
+	color: #fff;
+	padding: 5px 10px;
+	font-weight: bolder;
+}
+
+main form button:hover
+{
+	opacity: 0.8;
+}
+
+main form span
+{
+	float: right;
+	width: 146px;
+}

@@ -1,0 +1,298 @@
+*
+{
+	font-family:arial;
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	color:#000;	
+}
+
+html
+{
+	font-size:62.5%;
+	width: 100%;
+	float: left;	
+}
+
+body
+{
+	width: 100.7rem;
+	font-size: 1.2rem;
+	margin: 0 auto;
+}
+
+header,main,footer
+{
+	background: #fff;
+	float: left;
+	width: 100%;
+}
+
+header
+{
+	margin-bottom: 6rem;
+}
+
+/*CLASSES GLOABAIS */
+.inputButton
+{
+    height: 2.9rem;
+    border: .1rem solid #eee;
+}
+
+.input 
+{
+    padding: 0 .5rem;	
+}
+
+.button 
+{
+    background: #eee;
+    color: #000;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+header div:nth-of-type(1),
+header div:nth-of-type(2),
+header nav
+{
+	float: left;
+	width: 100%;
+}
+
+header div:nth-of-type(1)
+{
+		
+}
+
+header div:nth-of-type(1) > ul 
+{
+	float: left;
+	width: 100%;
+	padding: .8rem 0;
+}
+
+header div:nth-of-type(1) > ul > li
+{
+	float: left;
+	margin-right: 1rem;
+}
+
+header div:nth-of-type(1) > ul > li:last-child
+{
+	margin-right:0;	
+}
+
+header div:nth-of-type(1) > ul > li > a
+{
+	font-size: 1.1rem;
+}
+
+header div:nth-of-type(1) > ul >li > a:hover
+{
+	text-decoration: underline;
+}
+
+header div:nth-of-type(1) > ul > li > a > img
+{
+	float: left;
+	margin: .2rem .3rem 0 0;
+}
+
+header div:nth-of-type(2)
+{
+    margin: 1rem 0;
+}
+
+header div:nth-of-type(2) > figure,
+header div:nth-of-type(2) > form,
+header div:nth-of-type(2) > section
+{
+    float: left;
+}
+
+header div:nth-of-type(2) > figure
+{
+    width: 30%;
+    text-align: center;
+}
+
+header div:nth-of-type(2) > form
+{
+    width: 45%;
+    margin: 1.6rem 0;
+    padding: 0 1rem;
+}
+
+header div:nth-of-type(2) > form input[type='search'],
+header div:nth-of-type(2) > form button
+{
+    float: left;
+}
+
+header div:nth-of-type(2) > form input[type='search']
+{
+    width: 43rem;
+}
+
+header div:nth-of-type(2) > form button
+{
+    margin-left: -6.4rem;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+}
+
+header div:nth-of-type(2) > form button:hover
+{
+    opacity: .6;
+}
+
+header div:nth-of-type(2) > section
+{
+    float: right;
+    width: auto;
+    margin: 1.2rem .5rem 1.2rem 0;
+}
+
+header div:nth-of-type(2) > section > figure 
+{
+    float: left;
+}
+
+header div:nth-of-type(2) > section > figure:nth-child(1)
+{
+    border-right: .1rem solid #ccc;
+    padding-right: 3rem;
+    margin-right: 3rem;
+}
+
+header div:nth-of-type(2) > section > figure:nth-child(1) img,
+header div:nth-of-type(2) > section > figure:nth-child(1) figcaption
+{
+    float: right;
+    cursor: pointer;
+}
+
+header div:nth-of-type(2) > section > figure:nth-child(1) img
+{
+    
+}
+
+header div:nth-of-type(2) > section > figure:nth-child(1) figcaption
+{
+    background: #709fca;
+    color: #fff;
+    padding: .4rem .8rem;
+    margin: 0 -3.2rem 0;
+    border-radius: 3.5rem;
+    -moz-border-radius: 3.5rem;
+    -webkit-border-radius: 3.5rem;
+}
+
+header div:nth-of-type(2) > section > figure:nth-child(2)
+{
+    
+}
+
+header nav
+{
+	
+}
+
+header nav > ul
+{
+	background: #eee; 
+	float: left;
+	width: 100%;
+}
+
+header nav > ul > li:nth-of-type(1)
+{
+	
+}
+
+header nav > ul > li:nth-of-type(1):hover,
+header nav > ul > li:nth-last-of-type(1):hover
+{
+	background: none;
+}
+
+header nav > ul > li
+{
+	float: left;
+	position: relative;
+	font-size: 1.2rem;
+}
+
+header nav > ul > li:hover
+{
+	background: #709fca;
+}
+
+header nav > ul > li:nth-last-of-type(1)
+{
+	float: right;
+}
+
+header nav > ul > li > a
+{
+	font-size: 1.2rem;
+	padding: 1rem;
+	cursor: pointer;
+	float: left;
+}
+
+header nav > ul > li > ul
+{
+	background: #fff;
+	position: absolute;
+	top: 100%;
+	width: 37rem;
+	display: none;
+	padding: 1.5rem;
+	box-shadow: 0 0 2rem #888;
+} 
+
+header nav > ul > li:hover > ul
+{
+	display: block;
+}
+
+header nav > ul > li > ul figure,
+header nav > ul > li > ul > li
+{
+	float: left;
+}
+
+header nav > ul > li > ul figure
+{
+	border-bottom-style: groove;
+	margin-bottom: 1rem;
+}
+
+header nav > ul > li > ul figure img,
+header nav > ul > li > ul figure figcaption
+{
+	float: left;
+}
+
+header nav > ul > li > ul figure img
+{
+	margin: 0 1rem 1rem 0;
+	width: 12rem;
+}
+
+header nav > ul > li > ul figure figcaption
+{
+	width: 23.8rem;
+	text-align: justify;
+}
+
+header nav > ul > li > ul figure figcaption p
+{
+	font-size: 1.6rem;
+	font-weight: bolder;
+	margin-bottom: 1rem;
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\desenvolvendo.com.clpprj">
+	<settings><PM_URL><![CDATA[C:/Users/Emerson/AppData/Roaming/ClPhpEd/Projects/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Users/Emerson/AppData/Roaming/ClPhpEd/Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\.htaccess"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\login.php"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\css\login.css"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Login.class.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\js\login.js" crc="1523833710"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\js\jquery-3.3.1.min.js" crc="1523753891"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\jp\jpLogin.php" crc="1523854375"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\cache\index.html" crc="1524426183"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php" crc="1524105358"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\css\login.css" crc="1523834708"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\css\header.css" crc="1524958009"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php" crc="1524426212"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaSenha.class.php" crc="1523752115"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaEmail.class.php" crc="1523752052"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\UrlAmigavel.class.php" crc="1523933629"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Login.class.php" crc="1523774997"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php" crc="1523848518"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Cripto.class.php" crc="1523751451"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ConDB.class.php" crc="1523848512"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\admin\index.php" crc="1523774682"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\admin\editar.php" crc="1523853130"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\produto.php" crc="1523933270"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\login.php" crc="1523848892"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\index.php" crc="1524022894"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\home.php" crc="1524024014"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\header.php" crc="1524958043"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\footer.php" crc="1524023052"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\404.php" crc="1523841225"/>
+		<file name="E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\.htaccess" crc="1524022326"/>
+	</filescache>
+</project>

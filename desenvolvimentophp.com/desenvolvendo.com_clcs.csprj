@@ -1,0 +1,254 @@
+<codestructure version="5.14">
+<phptree>
+<treenode node="../class/ConDB.class.php;PHP:PHP Include;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\jp\NewFile.php;f14;1;38;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../class/CRUD.class.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\jp\jpLogin.php;f14;1;37;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ALLOW_ALL_EXTERNAL_SITES;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f53;31;77;31;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ALLOW_EXTERNAL;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;30;58;30;;;;vpos;;v;;rTRUE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BLOCK_EXTERNAL_LEECHERS;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f52;27;75;27;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BROWSER_CACHE_DISABLE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f50;43;71;43;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="BROWSER_CACHE_MAX_AGE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f50;42;71;42;;;;vpos;;v;;r864000;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CURL_TIMEOUT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f43;39;55;39;;;;vpos;;v;;r20;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_LEVEL;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f42;25;53;25;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEBUG_ON;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f40;24;48;24;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_CC;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;54;51;54;;;;vpos;;v;;r&apos;ffffff&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_F;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;52;50;52;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_HEIGHT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;56;58;56;;;;vpos;;v;;r100;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_Q;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;50;50;50;;;;vpos;;v;;r90;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_S;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;53;50;53;;;;vpos;;v;;r0;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_WIDTH;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;55;57;55;;;;vpos;;v;;r100;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DEFAULT_ZC;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;51;51;51;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DISPLAY_ERROR_MESSAGES;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f50;28;72;28;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ERROR_IMAGE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f42;48;53;48;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_DIRECTORY;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f50;37;70;37;;;;vpos;;v;;r&apos;./cache&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_ENABLED;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f48;32;66;32;;;;vpos;;v;;rTRUE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_MAX_FILE_AGE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f52;34;75;34;;;;vpos;;v;;r86400;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_PREFIX;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f47;36;64;36;;;;vpos;;v;;r&apos;timthumb&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_SUFFIX;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f47;35;64;35;;;;vpos;;v;;r&apos;.timthumb.txt&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_CACHE_TIME_BETWEEN_CLEANS;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f57;33;87;33;;;;vpos;;v;;r86400;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="footer.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\index.php;f14;5;24;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\index.php;f14;1;24;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LOGO;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php;f9;6;13;6;;;;vpos;;v;;r&apos;require/img/logos/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_FILE_SIZE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;38;57;38;;;;vpos;;v;;r10485760;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_HEIGHT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;46;51;46;;;;vpos;;v;;r1500;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_WIDTH;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f41;45;50;45;;;;vpos;;v;;r1500;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MEMORY_LIMIT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f43;26;55;26;;;;vpos;;v;;r&apos;30M&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NOT_FOUND_IMAGE;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f45;47;60;47;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OPTIPNG_ENABLED;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f45;64;60;64;;;;vpos;;v;;r&#10;Description&#10;     Additional Parameters: LOCAL_FILE_BASE_DIRECTORY = Override the DOCUMENT_ROOT. This is best used in timthumb-config.php;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OPTIPNG_PATH;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f43;65;55;65;;;;vpos;;v;;r&apos;/usr/bin/optipng&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNG_IS_TRANSPARENT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f47;49;65;49;;;;vpos;;v;;rFALSE;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNGCRUSH_ENABLED;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f46;66;62;66;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PNGCRUSH_PATH;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f43;67;56;67;;;;vpos;;v;;r&apos;/usr/bin/pngcrush&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PRODUTO;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php;f9;7;16;7;;;;vpos;;v;;r&apos;require/img/produtos/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PROJETO;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php;f9;5;16;5;;;;vpos;;v;;r&apos;require/img/projeto/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="REDIRECT_QUERY_STRING;PHP:PHP Word;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\config\NewFile.php;f9;1;30;1;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php;f9;1;30;1;;;;vpos;;v;;risset($_SERVER[&apos;REDIRECT_QUERY_STRING&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="REDIRECT_URL;PHP:PHP Word;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\config\NewFile.php;f9;2;21;2;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\config\config.php;f9;2;21;2;;;;vpos;;v;;risset($_SERVER[&apos;REDIRECT_URL&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/class/CRUD.class.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\header.php;f14;1;42;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="require/config/config.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\header.php;f14;2;39;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="timthumb-config.php;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f75;23;94;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f9;21;16;21;;;;vpos;;v;;r&#10;Description&#10;     TimThumb by Ben Gillbanks and Mark Maunder Based on work done by Tim McDaniels and Darren Hoyt http://code.google.com/p/timthumb/;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WAIT_BETWEEN_FETCH_ERRORS;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f53;40;78;40;;;;vpos;;v;;r3600;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_COLOR_DEPTH;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f48;103;67;103;;;;vpos;;v;;r&apos;24&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_CUTYCAPT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f45;99;61;99;;;;vpos;;v;;r&apos;/usr/local/bin/CutyCapt&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_ENABLED;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;98;59;98;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_IMAGE_FORMAT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f49;104;69;104;;;;vpos;;v;;r&apos;png&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_JAVA_ON;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;108;59;108;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_JAVASCRIPT_ON;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f49;107;70;107;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_PLUGINS_ON;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f47;109;65;109;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_PROXY;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f42;110;55;110;;;;vpos;;v;;r&apos;&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_SCREEN_X;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f45;101;61;101;;;;vpos;;v;;r&apos;1024&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_SCREEN_Y;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f45;102;61;102;;;;vpos;;v;;r&apos;768&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_TIMEOUT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f44;105;59;105;;;;vpos;;v;;r&apos;20&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_USER_AGENT;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f47;106;65;106;;;;vpos;;v;;r&quot;Mozilla/5.0 (Windows;s U;s Windows NT 5.1;s en-GB;s rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_XVFB;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f42;100;54;100;;;;vpos;;v;;r&apos;/usr/bin/xvfb-run&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBSHOT_XVFB_RUNNING;PHP:PHP Word;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f48;111;68;111;;;;vpos;;v;;rfalse;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ConDB;PHP:Class Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ConDB.class.php;f9;1;1;16;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="getConn;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ConDB.class.php;f8;12;2;15;;;;vpos;;v;;r;;d1,13;;b1,0;;m">
+</treenode>
+<treenode node="setConn;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ConDB.class.php;f9;4;2;10;;;;vpos;;v;;r;;d1,5;;b3,0;;m">
+</treenode>
+</treenode>
+<treenode node="Cripto;PHP:Class Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Cripto.class.php;f0;1;1;14;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="setCripto;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Cripto.class.php;f8;3;2;13;;;;vpos;;v;;r;;d1,4;;b1,0;;mparam;;p">
+</treenode>
+</treenode>
+<treenode node="CRUD;PHP:Class Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f0;5;1;36;;;;vpos;;vConDB;;c;;r;;d0,6;;b0,0;;m">
+<treenode node="delete;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f8;32;2;35;;;;vpos;;v;;r;;d1,33;;b1,0;;mtable;;pcond;;pexec;;p">
+</treenode>
+<treenode node="insert;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f8;15;2;19;;;;vpos;;v;;r;;d1,16;;b1,0;;mtabela;;pcond;;pexec;;p">
+</treenode>
+<treenode node="prepExec;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f9;9;2;13;;;;vpos;;v;;r;;d1,10;;b3,0;;mprep;;pexec;;p">
+</treenode>
+<treenode node="select;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f8;21;2;25;;;;vpos;;v;;r;;d1,22;;b1,0;;mfields;;ptable;;pcond;;pexec;;p">
+</treenode>
+<treenode node="update;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f8;27;2;30;;;;vpos;;v;;r;;d1,28;;b1,0;;mtable;;pcond;;pexec;;p">
+</treenode>
+</treenode>
+<treenode node="Login;PHP:Class Name;C:\Program Files (x86)\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\NewFile.php;f0;1;1;28;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Login.class.php;f0;1;1;42;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="setLogin;PHP:Function Name;C:\Program Files (x86)\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\NewFile.php;f8;5;2;27;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\Login.class.php;f8;5;2;41;;;;vpos;;v;;r;;d1,6;;b1,0;;memail;;psenha;;p">
+</treenode>
+</treenode>
+<treenode node="timthumb;PHP:Class Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f0;130;1;1167;;;;vpos;;v;;r;;d15,130;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f8;168;2;264;;;;vpos;;v;;r;;d30,168;;b1,0;;m">
+</treenode>
+<treenode node="__destruct;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f8;265;2;270;;;;vpos;;v;;r;;d29,265;;b1,0;;m">
+</treenode>
+<treenode node="calcDocRoot;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;743;2;765;;;;vpos;;v;;r;;d33,743;;b2,0;;m">
+</treenode>
+<treenode node="cleanCache;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;435;2;471;;;;vpos;;v;;r;;d32,435;;b2,0;;m">
+</treenode>
+<treenode node="curlWrite;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f15;927;2;935;;;;vpos;;v;;r;;d41,927;;b1,5;;mh;;pd;;p">
+</treenode>
+<treenode node="debug;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1038;2;1048;;;;vpos;;v;;r;;d39,1038;;b2,0;;mlevel;;pmsg;;p">
+</treenode>
+<treenode node="error;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;387;2;391;;;;vpos;;v;;r;;d31,387;;b2,0;;merr;;p">
+</treenode>
+<treenode node="getIP;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1023;2;1037;;;;vpos;;v;;r;;d27,1023;;b2,0;;m">
+</treenode>
+<treenode node="getLocalImagePath;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;766;2;828;;;;vpos;;v;;r;;d43,766;;b2,0;;msrc;;p">
+</treenode>
+<treenode node="getMimeType;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1052;2;1058;;;;vpos;;v;;r;;d38,1052;;b2,0;;mfile;;p">
+</treenode>
+<treenode node="getURL;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1080;2;1140;;;;vpos;;v;;r;;d43,1080;;b2,0;;murl;;ptempfile;;p">
+</treenode>
+<treenode node="handleErrors;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;296;2;316;;;;vpos;;v;;r;;d34,296;;b2,0;;m">
+</treenode>
+<treenode node="haveErrors;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;392;2;397;;;;vpos;;v;;r;;d32,392;;b2,0;;m">
+</treenode>
+<treenode node="is404;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1164;2;1166;;;;vpos;;v;;r;;d27,1164;;b2,0;;m">
+</treenode>
+<treenode node="openImage;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1004;2;1022;;;;vpos;;v;;r;;d46,1004;;b2,0;;mmimeType;;psrc;;p">
+</treenode>
+<treenode node="param;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;997;2;1003;;;;vpos;;v;;r;;d51,997;;b2,0;;mproperty;;pdefault;;p">
+</treenode>
+<treenode node="processImageAndWriteToCache;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;472;2;742;;;;vpos;;v;;r;;d60,472;;b2,0;;mlocalImage;;p">
+</treenode>
+<treenode node="realpath;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;829;2;838;;;;vpos;;v;;r;;d35,829;;b2,0;;mpath;;p">
+</treenode>
+<treenode node="returnBytes;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f18;1070;2;1078;;;;vpos;;v;;r;;d49,1070;;b2,5;;msize_str;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f8;271;2;295;;;;vpos;;v;;r;;d22,271;;b1,0;;m">
+</treenode>
+<treenode node="sanityFail;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1049;2;1051;;;;vpos;;v;;r;;d36,1049;;b2,0;;mmsg;;p">
+</treenode>
+<treenode node="securityChecks;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;995;2;996;;;;vpos;;v;;r;;d36,995;;b2,0;;m">
+</treenode>
+<treenode node="sendImageHeaders;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;969;2;994;;;;vpos;;v;;r;;d58,969;;b2,0;;mmimeType;;pdataSize;;p">
+</treenode>
+<treenode node="serveCacheFile;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;936;2;968;;;;vpos;;v;;r;;d36,936;;b2,0;;m">
+</treenode>
+<treenode node="serveErrors;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;398;2;411;;;;vpos;;v;;r;;d33,398;;b2,0;;m">
+</treenode>
+<treenode node="serveExternalImage;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;896;2;926;;;;vpos;;v;;r;;d40,896;;b2,0;;m">
+</treenode>
+<treenode node="serveImg;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1141;2;1160;;;;vpos;;v;;r;;d35,1141;;b2,0;;mfile;;p">
+</treenode>
+<treenode node="serveInternalImage;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;412;2;434;;;;vpos;;v;;r;;d40,412;;b2,0;;m">
+</treenode>
+<treenode node="serveWebshot;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;843;2;895;;;;vpos;;v;;r;;d34,843;;b2,0;;m">
+</treenode>
+<treenode node="set404;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1161;2;1163;;;;vpos;;v;;r;;d28,1161;;b2,0;;m">
+</treenode>
+<treenode node="setMemoryLimit;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;1059;2;1069;;;;vpos;;v;;r;;d36,1059;;b2,0;;m">
+</treenode>
+<treenode node="start;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f15;152;2;167;;;;vpos;;v;;r;;d31,152;;b1,5;;m">
+</treenode>
+<treenode node="toDelete;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;839;2;842;;;;vpos;;v;;r;;d35,839;;b2,0;;mname;;p">
+</treenode>
+<treenode node="tryBrowserCache;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;317;2;352;;;;vpos;;v;;r;;d37,317;;b2,0;;m">
+</treenode>
+<treenode node="tryServerCache;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\img\miniaturas\mini.php;f11;353;2;386;;;;vpos;;v;;r;;d36,353;;b2,0;;m">
+</treenode>
+</treenode>
+<treenode node="UrlAmigavel;PHP:Class Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\NewFile.php;f0;1;1;36;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\UrlAmigavel.class.php;f0;1;1;40;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="setUrlAmigavel;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\NewFile.php;f8;5;2;35;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\UrlAmigavel.class.php;f8;5;2;39;;;;vpos;;v;;r;;d1,6;;b1,0;;mparam;;p">
+</treenode>
+</treenode>
+<treenode node="ValidaEmail;PHP:Class Name;C:\Program Files (x86)\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\Valida.php;f0;1;1;10;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaEmail.class.php;f0;1;1;23;;;;vpos;;v;;r;;d17,1;;b0,0;;m">
+<treenode node="setValidaEmail;PHP:Function Name;C:\Program Files (x86)\VertrigoServ\www\projetos\desenvolvimentophp.com\require\class\Valida.php;f8;2;2;9;;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaEmail.class.php;f8;2;2;22;;;;vpos;;v;;r;;d1,3;;b1,0;;memail;;p">
+</treenode>
+</treenode>
+<treenode node="ValidaSenha;PHP:Class Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaSenha.class.php;f0;1;1;18;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="setValidaSenha;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\ValidaSenha.class.php;f8;3;2;17;;;;vpos;;v;;r;;d1,4;;b1,0;;mpass;;p">
+</treenode>
+</treenode>
+<treenode node="__autoload;PHP:Function Name;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f0;1;1;4;;;;vpos;;v;;r;;d0,2;;b0,0;;mclass;;p">
+<treenode node="{;PHP:PHP Include;E:\Programacao\Web\php\www\projetos\desenvolvimentophp.com\require\class\CRUD.class.php;f14;3;15;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="check_cache;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;199;1;213;;;;vpos;;v;;r;;d34,199;;b0,0;;mcache_dir;;p">
+</treenode>
+<treenode node="get_cache_file;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;246;1;253;;;;vpos;;v;;r;;d27,246;;b0,0;;m">
+</treenode>
+<treenode node="mime_type;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;168;1;190;;;;vpos;;v;;r;;d27,168;;b0,0;;mfile;;p">
+</treenode>
+<treenode node="open_image;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;154;1;166;;;;vpos;;v;;r;;d39,154;;b0,0;;mmime_type;;psrc;;p">
+</treenode>
+<treenode node="show_cache_file;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;215;1;244;;;;vpos;;v;;r;;d40,215;;b0,0;;mcache_dir;;p">
+</treenode>
+<treenode node="show_image;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;124;1;152;;;;vpos;;v;;r;;d71,124;;b0,0;;mmime_type;;pimage_resized;;pquality;;pcache_dir;;p">
+</treenode>
+<treenode node="valid_src_mime_type;PHP:Function Name;E:\Programacao\Web\php\VertrigoServ\www\projetos\desenvolvimentophp.com\require\img\miniaturas\NewFile.php;f0;192;1;197;;;;vpos;;v;;r;;d42,192;;b0,0;;mmime_type;;p">
+</treenode>
+</phptree>
+</codestructure>
