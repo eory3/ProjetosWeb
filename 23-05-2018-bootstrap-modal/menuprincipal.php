@@ -16,7 +16,7 @@
 			<ul class="nav navbar-nav">
 				<li><a class="active" href="index.php?modulo=cidades">Cidades</a></li>
 				<li><a href="index.php?modulo=clientes">Clientes</a></li>
-				<li><a href="#">Fornecedores</a></li>
+				<li><a href="index.php?modulo=fornecedores">Fornecedores</a></li>
 				<li><a href="#">Unidades de Medida</a></li>
 				<li><a href="#">Ingredientes</a></li>
 				<li><a href="index.php?modulo=pratos">Pratos</a></li>

@@ -58,30 +58,35 @@ $(document).ready(function(){
 
 ?>
 
+<div class="container">
+	<div class="page-header">
+		<h1>CADASTRO DE CIDADES <small>FICHA</small></h1>
+	</div>
+	<div class="col-md-12">
+		<form  name="fcad" id="fcad" method="POST" action="cidades_gravar.php?acao=<?php echo $acao; ?>&cod_cidade=<?php echo $cod_cidade; ?>">
 
-<h2>CADASTRO DE CIDADES : FICHA</h2>
+		<div class="form-group">
+			<label for="nome">Nome</label>
+			<input type="text" name="nome" id="nome" class="form-control" placeholder="Digite o seu nome" maxlength="100" 
+		   		size="60" value="<?php echo $nome; ?>">
+			<div id="div_erro_nome"></div>
+		</div>
 
-<form  name="fcad" id="fcad" method="POST" action="cidades_gravar.php?acao=<?php echo $acao; ?>&cod_cidade=<?php echo $cod_cidade; ?>">
+		<div class="form-group">
+			<label for="uf">Unidade Federal</label>
+			<input type="text" name="uf" id="uf" maxlength="2" 
+		   		size="2" class="form-control" placeholder="Digite a unidade federal" value="<?php echo $uf; ?>">
+			<div id="div_erro_uf"></div>
+		</div>
 
-Nome:<br>
-<input type="text" name="nome" id="nome" maxlength="100" 
-   size="60" value="<?php echo $nome; ?>">
-<div id="div_erro_nome"></div>
+		<input type="submit" class="btn btn-success" name="btenvio" id="btenvio" 
+		   value=" Gravar ">
 
-<p></p>
+		<input type="button" class="btn btn-danger" name="btcancelar" id="btcancelar" 
+		   value=" Cancelar " onclick="document.location='index.php?modulo=cidades';">
 
-Unidade Federal:<br>
-<input type="text" name="uf" id="uf" maxlength="2" 
-   size="10" value="<?php echo $uf; ?>">
-<div id="div_erro_uf"></div>
+		</form>
+	</div>
+</div>
 
-<p></p>
-
-<input type="submit" name="btenvio" id="btenvio" 
-   value=" Gravar ">
-
-<input type="button" name="btcancelar" id="btcancelar" 
-   value=" Cancelar " onclick="document.location='index.php?modulo=cidades';">
-
-</form>
 

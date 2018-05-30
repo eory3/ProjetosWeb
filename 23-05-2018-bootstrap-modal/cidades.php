@@ -36,7 +36,7 @@ $(document).ready( function(){
 
 			<div class="form-group">
 				<label for="txtPesquisa">Pesquisa:</label>
-				<input type="text" class="form-control" placeholder="Digite sua pesquisa" name="txtPesquisa" id="txtPesquisa" size="40" value="<?php echo $pesquisa; ?>">
+				<input class="form-control" type="text" placeholder="Digite sua pesquisa" name="txtPesquisa" id="txtPesquisa" size="40" value="<?php echo $pesquisa; ?>">
 			</div>
 
 			<input type="submit" name="btenviar" id="btenviar" value="Pesquisar" class="btn btn-primary">
@@ -98,7 +98,7 @@ $(document).ready( function(){
 
 		echo '</table>';
 
-		echo '<a href="index.php?modulo=cidades_ficha&acao=incluir"  class="btn btn-success">Incluir um Novo Registro</a>';
+		echo '<a href="index.php?modulo=cidades_ficha&acao=incluir"  class="btn btn-success">Incluir Nova Cidade</a>';
 
 
 		?>

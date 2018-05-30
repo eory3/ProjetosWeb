@@ -1,10 +1,18 @@
+<?php 
+	session_start();
+ ?>
 <div class="container">
+
 	<div class="row">
 		<div class="col-md-12">
+
 			<div class="page-header text-center">
-				<h3>ACESSO AO SISTEMA</h3>
+				<h3>NOVO USUARIO <small>FICHA</small></h3>
 			</div>	
+
+
 			<form name="flogin" id="flogin" method="post" action="autenticar.php">
+
 				<?php
 				if( @$_GET['loginerror'] != '')
 				{
@@ -25,13 +33,11 @@
 				<br>
 				<div class="form-group text-center">	
 					<input type="submit" name="btlogin" id="btlogin" value=" Acessar " class="btn btn-success">
-					<!--
-						Cria novo usuario
-						<input type="button" class="btn btn-primary" name="btlogin_ficha" id="btlogin_ficha" 
-						value=" Novo Usuario " onclick="document.location='login_ficha.php';">
-					-->
 				</div>
 			</form>
+
 		</div>
+
 	</div>
+
 </div>	

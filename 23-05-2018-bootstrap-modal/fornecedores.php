@@ -3,9 +3,9 @@
 // exclui um registro --------
 function excluir(codigo)
 {
-	if( confirm('Deseja realmente excluir esse cliente ??') )
+	if( confirm('Deseja realmente excluir esse fornecedor ??') )
 	{
-		document.location='clientes_gravar.php?acao=excluir&cod_cliente='+codigo;
+		document.location='fornecedor_gravar.php?acao=excluir&cod_fornecedor='+codigo;
 	}
 }
 
@@ -22,7 +22,7 @@ $(document).ready( function(){
 </script>
 
 <div class="page-header">
-	<h1>Clientes <small>Listagem</small></h1>
+	<h1>Fornecedores <small>Listagem</small></h1>
 </div>
 <div class="row">
 	<div class="col-md-12">
@@ -53,9 +53,9 @@ $(document).ready( function(){
 			}
 
 			$sql = " select * 
-					 from clientes 
-					 where nome like '%$pesquisa%'
-					 order by nome";
+					 from fornecedores 
+					 where nome_fantasia like '%$pesquisa%'
+					 order by nome_fantasia";
 
 			// enviando um comando SQL para o banco de dados
 			$r = $pdo->query($sql);
@@ -65,7 +65,7 @@ $(document).ready( function(){
 			echo '<table class="table table-hover">';
 			echo '<tr>';
 			echo ' <td><strong>Código</strong></td>';
-			echo ' <td><strong>Nome</strong></td>';
+			echo ' <td><strong>Nome Fantasia</strong></td>';
 			echo ' <td class="text-center"><strong>Opções</strong></td>';
 			echo '</tr>';
 
@@ -73,18 +73,18 @@ $(document).ready( function(){
 			while( $dados = $r->fetch(PDO::FETCH_ASSOC) )
 			{
 				echo '<tr  class="active">';
-				echo ' <td>'.$dados['cod_cliente'].'</td>';
-				echo ' <td>'.$dados['nome'] . '</td>';
+				echo ' <td>'.$dados['cod_fornecedor'].'</td>';
+				echo ' <td>'.$dados['nome_fantasia'] . '</td>';
 
 				echo ' <td class="text-center">';
 				
-				echo '<a class="btn btn-warning btn-xs" href="index.php?modulo=clientes_ficha&acao=alterar&cod_cliente='.$dados['cod_cliente'].'">Alterar</a>';
+				echo '<a class="btn btn-warning btn-xs" href="index.php?modulo=fornecedores_ficha&acao=alterar&cod_fornecedor='.$dados['cod_fornecedor'].'">Alterar</a>';
 				
 				echo '&nbsp;&nbsp;&nbsp;&nbsp;';
 
 				//echo '<a href="clientes_gravar.php?acao=excluir&cod_cliente='.$dados['cod_cliente'].'">Excluir</a>';
 
-				echo '<a class="btn btn-danger btn-xs" href="javascript:excluir('.$dados['cod_cliente'].');">Excluir</a>';
+				echo '<a class="btn btn-danger btn-xs" href="javascript:excluir('.$dados['cod_fornecedor'].');">Excluir</a>';
 
 				echo '</td>';
 
@@ -93,7 +93,7 @@ $(document).ready( function(){
 
 			echo '</table>';
 
-			echo '<p><a class="btn btn-success" href="index.php?modulo=clientes_ficha&acao=incluir">Incluir Novo Cliente</a></p>';
+			echo '<p><a class="btn btn-success" href="index.php?modulo=fornecedores_ficha&acao=incluir">Incluir Novo Fornecedor</a></p>';
 		?>
 	</div>
 </div>
