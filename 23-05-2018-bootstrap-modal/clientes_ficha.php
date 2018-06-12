@@ -163,7 +163,7 @@ if( $acao == 'alterar' )
 </script>
 <div class="container">
 	<div class="page-header">
-		<h2>CADASTRO DE CLIENTES <small>FICHA</small></h2>
+		<h2>Cadastro de Cliente <small>Ficha</small></h2>
 	</div>
 	<div class="col-md-12">
 		<form  name="fcad" id="fcad" method="POST" action="clientes_gravar.php?acao=<?php echo $acao; ?>&cod_cliente=<?php echo $cod_cliente; ?>">

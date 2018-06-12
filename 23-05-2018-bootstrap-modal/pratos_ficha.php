@@ -79,7 +79,7 @@ $(document).ready(function(){
 <div class="container">
 
 	<div class="page-header">
-		<h1>Pratos <small>Ficha</small></h1>
+		<h1>Cadastro de Prato <small>Ficha</small></h1>
 	</div>	
 
 

@@ -186,7 +186,7 @@ $(document).ready( function(){
 
 		echo '</table>';
 
-		echo '<a href="index.php?modulo=pratos_ficha&acao=incluir"  class="btn btn-success">Incluir um Novo Registro</a>';
+		echo '<a href="index.php?modulo=pratos_ficha&acao=incluir"  class="btn btn-success">Incluir um Novo Prato</a>';
 
 
 		?>

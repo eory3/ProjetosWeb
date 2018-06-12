@@ -21,7 +21,6 @@
 					<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
 					<input type="text" name="login" id="login" value="" class="form-control"  placeholder="Login de acesso" required>
 				</div>
-				<br>
 				<label for="senha">Senha:</label><br>
 				<div class="input-group">
 					<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
@@ -30,7 +29,7 @@
 				<br>
 				<div class="form-group text-center">
 					<input type="submit" name="btlogin" id="btlogin" value=" Acessar " class="btn btn-success">
-					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalNovoLogin">Novo Login</button>
+					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalNovoLogin">Novo Acesso</button>
 				</div>
 			</form>
 		</div>
@@ -43,33 +42,10 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
-				<h4 class="modal-title" id="TitleNovoLogin">Novo Login</h4>
+				<h4 class="modal-title" id="TitleNovoLogin">Novo Acesso</h4>
 			</div>
 			<div class="modal-body" id="BodyNovoLogin">
-				<form name="flogin" id="flogin" method="post" action="login_gravar.php">
-					<label for="login">Nome Completo:</label><br>
-					<div class="input-group">
-						<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-						<input type="text" name="nome" id="nome" value="" class="form-control"  placeholder="Nome Completo" required>
-					</div>
-					<br>
-					<label for="login">Login:</label><br>
-					<div class="input-group">
-						<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-						<input type="text" name="login" id="login" value="" class="form-control"  placeholder="Login de acesso" required>
-					</div>
-					<br>
-					<label for="senha">Senha:</label><br>
-					<div class="input-group">
-						<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-						<input type="password" name="senha" id="senha" value="" class="form-control"  placeholder="Senha de acesso" required>
-					</div>
-					<div class="modal-footer">
-						<input type="submit" name="btlogin" id="btlogin" value=" Gravar " class="btn btn-success">
-						<button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-					</div>
-				</form>
-
+				<?php include_once('login_ficha.php'); ?>
 			</div>
 		</div><!-- /.modal-content -->
 	</div><!-- /.modal-dialog -->

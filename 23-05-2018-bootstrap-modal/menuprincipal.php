@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default" role="navigation" style="margin-top: 2px;">
 	<div class="container-fluid">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
@@ -17,13 +17,12 @@
 				<li><a class="active" href="index.php?modulo=cidades">Cidades</a></li>
 				<li><a href="index.php?modulo=clientes">Clientes</a></li>
 				<li><a href="index.php?modulo=fornecedores">Fornecedores</a></li>
-				<li><a href="#">Unidades de Medida</a></li>
-				<li><a href="#">Ingredientes</a></li>
+				<li><a href="index.php?modulo=unidades">Unidades de Medida</a></li>
+				<li><a href="index.php?modulo=ingredientes">Ingredientes</a></li>
 				<li><a href="index.php?modulo=pratos">Pratos</a></li>
-				<li><a href="#">Compras</a></li>
-				<li><a href="#">Encomendas</a></li>
+				<li><a href="index.php?modulo=compras">Compras</a></li>
+				<li><a href="index.php?modulo=encomendas">Encomendas</a></li>
 				<li><a href="logout.php">Sair (<?php echo $_SESSION['usuario']['login'] ?>)</a></li>
-				
 			</ul>
 <!-- 			<form class="navbar-form navbar-left" role="search">
 				<div class="form-group">

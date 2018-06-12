@@ -36,6 +36,6 @@ if( $r ) // se houve sucesso
 	}
 	else
 	{
-		header('Location: index.php?loginerror=Não foi possivel criar o novo login tente novamente !');
+		header('Location: index.php?loginerror=Não foi possivel criar um novo login provavelmente esse ja existe tente novamente com um login diferente !');
 	}
 ?>

@@ -17,4 +17,3 @@ class BD
 	} // construct
 
 } // class Bd
-

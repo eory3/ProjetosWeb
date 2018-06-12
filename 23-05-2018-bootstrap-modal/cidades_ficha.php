@@ -60,14 +60,14 @@ $(document).ready(function(){
 
 <div class="container">
 	<div class="page-header">
-		<h1>CADASTRO DE CIDADES <small>FICHA</small></h1>
+		<h1>Cadastro de Cidade <small>Ficha</small></h1>
 	</div>
 	<div class="col-md-12">
 		<form  name="fcad" id="fcad" method="POST" action="cidades_gravar.php?acao=<?php echo $acao; ?>&cod_cidade=<?php echo $cod_cidade; ?>">
 
 		<div class="form-group">
 			<label for="nome">Nome</label>
-			<input type="text" name="nome" id="nome" class="form-control" placeholder="Digite o seu nome" maxlength="100" 
+			<input type="text" name="nome" id="nome" class="form-control" placeholder="Digite o nome da cidade" maxlength="100" 
 		   		size="60" value="<?php echo $nome; ?>">
 			<div id="div_erro_nome"></div>
 		</div>

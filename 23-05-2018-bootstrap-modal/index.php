@@ -26,14 +26,13 @@
 
 	<!-- INSERINDO O BOOTSTRAP -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">	
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- incluindo css-->	
     <link href="_bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
-
 
 	<!-- incluindo a biblioteca jQuery -->
 	<script type="text/javascript" src="_js/jquery-3.3.1.min.js"></script>
-
+	
 	<!-- incluindo a biblioteca de funções gerais -->
 	<script type="text/javascript" src="_js/funcoes.js"></script>
 
