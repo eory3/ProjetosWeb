@@ -34,26 +34,26 @@ $(document).ready(function(){
 
 <?php
 
-	$cod_cidade = @$_GET['cod_cidade'];
-	$acao = @$_GET['acao'];
+$cod_cidade = @$_GET['cod_cidade'];
+$acao = @$_GET['acao'];
 
-	$nome = '';
-	$uf   = '';
+$nome = '';
+$uf   = '';
 
-	if( $acao == 'alterar' )
+if( $acao == 'alterar' )
+{
+	$sql = " select * from cidades where cod_cidade = '$cod_cidade'";
+	$r = $pdo->query($sql);		
+	if( $d = $r->fetch(PDO::FETCH_ASSOC))
 	{
-		$sql = " select * from cidades where cod_cidade = '$cod_cidade'";
-		$r = $pdo->query($sql);		
-		if( $d = $r->fetch(PDO::FETCH_ASSOC))
-		{
-			$nome  = $d['nome'];
-			$uf    = $d['uf'];
-		}
-		else 
-		{
-			header('Location: cidades.php?msg=Cidade não encontrada!');
-		}
+		$nome  = $d['nome'];
+		$uf    = $d['uf'];
 	}
+	else 
+	{
+		header('Location: cidades.php?msg=Cidade não encontrada!');
+	}
+}
 
 
 ?>
@@ -65,25 +65,25 @@ $(document).ready(function(){
 	<div class="col-md-12">
 		<form  name="fcad" id="fcad" method="POST" action="cidades_gravar.php?acao=<?php echo $acao; ?>&cod_cidade=<?php echo $cod_cidade; ?>">
 
-		<div class="form-group">
-			<label for="nome">Nome</label>
-			<input type="text" name="nome" id="nome" class="form-control" placeholder="Digite o nome da cidade" maxlength="100" 
-		   		size="60" value="<?php echo $nome; ?>">
-			<div id="div_erro_nome"></div>
-		</div>
+			<div class="form-group">
+				<label for="nome">Nome</label>
+				<input type="text" name="nome" id="nome" class="form-control" placeholder="Digite o nome da cidade" maxlength="100" 
+				size="60" value="<?php echo $nome; ?>">
+				<div id="div_erro_nome"></div>
+			</div>
 
-		<div class="form-group">
-			<label for="uf">Unidade Federal</label>
-			<input type="text" name="uf" id="uf" maxlength="2" 
-		   		size="2" class="form-control" placeholder="Digite a unidade federal" value="<?php echo $uf; ?>">
-			<div id="div_erro_uf"></div>
-		</div>
+			<div class="form-group">
+				<label for="uf">Unidade Federal</label>
+				<input type="text" name="uf" id="uf" maxlength="2" 
+				size="2" class="form-control" placeholder="Digite a unidade federal" value="<?php echo $uf; ?>">
+				<div id="div_erro_uf"></div>
+			</div>
 
-		<input type="submit" class="btn btn-success" name="btenvio" id="btenvio" 
-		   value=" Gravar ">
+			<input type="submit" class="btn btn-success" name="btenvio" id="btenvio" 
+			value=" Gravar ">
 
-		<input type="button" class="btn btn-danger" name="btcancelar" id="btcancelar" 
-		   value=" Cancelar " onclick="document.location='index.php?modulo=cidades';">
+			<input type="button" class="btn btn-danger" name="btcancelar" id="btcancelar" 
+			value=" Cancelar " onclick="document.location='index.php?modulo=cidades';">
 
 		</form>
 	</div>
